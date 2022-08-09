@@ -1,2 +1,3 @@
-# Alazar
-This is my portfolio
+# Alazar Tegene
+
+This is my portfolio which is done using react.
