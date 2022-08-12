@@ -38,15 +38,4 @@ export const blogData = [
       "https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png",
     url: "https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html",
   },
-  {
-    id: 5,
-    title:
-      "GET MICHAEL'S OR TREVOR'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE",
-    description:
-      "In case you haven't heard of this game, GTA stands for 'Grand Theft Auto'. It is an open-world game published by Rockstar Games.",
-    date: "Oct 1, 2020",
-    image:
-      "https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg",
-    url: "https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html",
-  },
 ];
