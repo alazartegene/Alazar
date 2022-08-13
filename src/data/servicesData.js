@@ -42,11 +42,11 @@ export const servicesData = [
     title: "Web Design",
     icon: <BsCodeSlash />,
   },
-  {
-    id: 7,
-    title: "Photography",
-    icon: <FaCameraRetro />,
-  },
+  // {
+  //   id: 7,
+  //   title: "Photography",
+  //   icon: <FaCameraRetro />,
+  // },
 
   {
     id: 9,
